@@ -1,3 +1,4 @@
+# Practice for tensor operations
 import torch  # 先导入工具包
 
 x = torch.rand(5, 3) # 创建张量
